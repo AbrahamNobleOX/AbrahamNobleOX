@@ -1,4 +1,4 @@
-### Hi there 👋. Still working on this, check back soon.
+### Hi there 👋. Still working on this README, check back soon.
 
 <!--
 **AbrahamNobleOX/AbrahamNobleOX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
