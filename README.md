@@ -13,7 +13,7 @@
 
 - 👯 I'm looking to collaborate on **Open source projects**
 
-- 📫 How to reach me **akintolaabrahamidowu@gmail.com**
+- 📫 How to reach me **abrahamakintola.dev@gmail.com**
 
 - ⚡ Fun fact **I’m passionate about leveraging AI-assisted development and automation tools to accelerate delivery without compromising reliability. A fast learner who thrives in dynamic environments.**
 
