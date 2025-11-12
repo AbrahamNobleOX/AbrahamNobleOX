@@ -1,6 +1,6 @@
 # <Hello World!/> 👋, I'm Abraham Akintola
 
-### A Full Stack Software Developer
+### A Full Stack Software Engineer
 
 <h3 align="left">Languages</h3>
 <p align="left">
