@@ -13,6 +13,7 @@
 </p>
 
 <h3 align="left">About Me</h3>
+
 - 🔭 I'm a **Full-Stack Engineer & AI Integrations Engineer with 4+ years of experience and verifiable track records building scalable, high-performance applications across web, mobile, and cloud.** I combine strong software engineering with practical AI and automation to help businesses improve speed, efficiency, and user experience. I’ve delivered production-ready products used by thousands of users in **Finance, Health, EduTech, Insurance, E-commerce and more**. Skilled in **TypeScript, Javascript, React, NextJs, Node.js, Nest, C#, .NET, PHP, and Laravel, with expanding expertise in Python and Go (Golang) for backend services and AI pipelines**. Using **Agile, TDD, and CI/CD** to maintain quality and speed, I deploy to **AWS, Azure, Vercel, and Heroku**. I integrate AI models and intelligent automation into existing systems, from data-driven insights to workflow optimization, helping teams achieve more with less manual effort. **Professional member of the British Computer Society (MBCS)** — always learning, always building.
 
 - 💬 Ask me about **TypeScript, Javascript, React, NextJs, Node.js, Nest, C#, .NET, PHP, and Laravel**
